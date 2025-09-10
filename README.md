@@ -1,8 +1,6 @@
 
 # BoletoHibrido
 
-API em **Java** que utiliza a biblioteca **ACBrLibBoleto** para geração, manipulação e consulta de boletos bancários.  
-
 ---
 
 ## 🚀 Funcionalidades
