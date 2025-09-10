@@ -1,12 +1,4 @@
 
----
-
-## 2. **BoletoHibrido**  
-**Descrição curta (GitHub):**  
-API em C# que utiliza a **ACBrLibBoleto** para geração e gerenciamento de boletos híbridos.  
-
-**README.md:**  
-```markdown
 # BoletoHibrido
 
 API em **C#** que utiliza a biblioteca **ACBrLibBoleto** para geração, manipulação e consulta de boletos bancários.  
